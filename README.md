@@ -1,0 +1,1 @@
+copy .env.example and then rename to .env 
